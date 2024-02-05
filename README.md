@@ -30,4 +30,15 @@ Your users should be able to:
   - [x] Adding a new task adds it to the bottom of the relevant column.
   - [x] Updating a task's status will move the task to the relevant column. If you're taking on the drag and drop bonus, dragging a task to a different column will also update the status.
 
+## About the Project
 
+Run the app with
+
+```bash
+npm run dev
+```
+
+- New Features Added:
+  - [x] Authentication with Firebase Google OAuth.
+  - [x] Connecting user with Cloud Firestore.
+  - [x] Save and retrieve data from each user.
