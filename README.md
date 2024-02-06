@@ -41,4 +41,6 @@ npm run dev
 - New Features Added:
   - [x] Authentication with Firebase Google OAuth.
   - [x] Connecting user with Cloud Firestore.
-  - [x] Save and retrieve data from each user.
+  - [x] Save and retrieve data `Boards` from each user.
+  - [x] Create, Edit, Delete Boards and Tasks from Cloud Firestore
+  - [x] Sync database and Redux to persist data.
